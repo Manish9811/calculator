@@ -1,0 +1,22 @@
+*{
+    background: black;
+    color: white;
+    font-family: sans-serif;
+}
+input
+{
+    border: 1px solid white;
+    outline: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+button
+{
+    background: white;
+    color: black;
+    padding: 10px;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
